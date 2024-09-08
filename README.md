@@ -1,4 +1,4 @@
-# this-is-the-China-website
+# ~~this is the Chinese website~~
 
 将国际网站伪装成中国网站.
 
